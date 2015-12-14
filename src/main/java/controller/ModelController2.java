@@ -172,7 +172,7 @@ public class ModelController2 extends SimModelImpl {
 					stop();
 				}
             	
-            	if(getTickCount() > 5000){
+            	if(getTickCount() > 500){
                 	stop();
                 }
             	
